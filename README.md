@@ -1,10 +1,9 @@
 # vimguide
 
-[![Build](https://github.com/OWNER/vimguide/actions/workflows/build.yml/badge.svg)](https://github.com/OWNER/vimguide/actions/workflows/build.yml)
+[![Build](https://github.com/spxd6666/vimguide/actions/workflows/build.yml/badge.svg)](https://github.com/spxd6666/vimguide/actions/workflows/build.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Release](https://img.shields.io/github/v/release/OWNER/vimguide)](https://github.com/OWNER/vimguide/releases)
+[![Release](https://img.shields.io/github/v/release/spxd6666/vimguide)](https://github.com/OWNER/vimguide/releases)
 
-> Replace `OWNER` in the badge URLs above with your GitHub username or org once you've pushed this repo.
 
 An interactive, full-screen terminal reference for Vim/Vi commands. It shows
 a browsable, tabbed table of keybindings grouped by mode/category:
