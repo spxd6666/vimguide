@@ -1,0 +1,14 @@
+Package: vimguide
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Maintainer: Local Builder <you@example.com>
+Depends: libc6 (>= 2.34)
+Homepage: https://example.com/vimguide
+Description: Interactive full-screen Vim/Vi command reference for the terminal
+ vimguide is a lightweight, dependency-free terminal application that
+ shows a browsable, tabbed table of Vim/Vi keybindings grouped by mode:
+ Movement, Editing, Yank/Paste, Search, Insert, Visual, Command-line,
+ Replace, Windows, and Macros. Useful as a learning aid while training
+ muscle memory for modal editing.
